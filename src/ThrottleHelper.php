@@ -1,7 +1,5 @@
 <?php
 
-namespace App\Helpers;
-
 use Carbon\Carbon;
 use Closure;
 use Illuminate\Support\Facades\Cache;

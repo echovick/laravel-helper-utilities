@@ -16,8 +16,7 @@
   ],
   "minimum-stability": "RC",
   "require": {
-    "illuminate/cache": "^9.0",
-    "illuminate/support": "^9.0",
-    "nesbot/carbon": "^2.72"
+    "nesbot/carbon": "^2.72",
+    "illuminate/support": "^9.52"
   }
 }
