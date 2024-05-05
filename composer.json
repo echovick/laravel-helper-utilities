@@ -2,7 +2,7 @@
   "name": "echovick/helper-utilities",
   "description": "A package that provides a collection of utility functions that developers can use in their projects. It's broad and encompasses various types of helpers like throttling or rate limiting, attempt, string and numeric manipulations.",
   "type": "library",
-  "license": "GNU General Public License (GPL)",
+  "license": "proprietary",
   "autoload": {
     "psr-4": {
       "Echovick\\HelperUtilities\\": "src/"
