@@ -51,4 +51,3 @@ Contributions to Echoutilities are welcome! If you have any suggestions, improve
 ## License
 
 Echoutilities is open-source software licensed under the [MIT License](LICENSE).
-```
