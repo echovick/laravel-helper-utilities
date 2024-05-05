@@ -1,4 +1,3 @@
-```markdown
 # Echoutilities
 
 Echoutilities is a PHP utility package developed by Echovick that provides various helper functions to simplify common tasks in PHP applications.
